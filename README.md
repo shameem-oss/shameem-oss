@@ -1,7 +1,9 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## Hi ,i'm shamim fazli 👋
+I am a full-stack web developer with a Computer Science degree, skilled in front-end and back-end
+technologies like HTML, CSS, JavaScript, React, and Node.js. Passionate about building responsive
+applications, I enjoy problem-solving and system design while continuously learning and improving.
+- 🔭 I’m currently working on Creating full stack Website .
+- 🌱 I’m Recently, created a hotel booking website where guests can browse available rooms and make reservations. The platform also includes features for managing room details, availability, and booking history.
 
 <!--
 **shameem-oss/shameem-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

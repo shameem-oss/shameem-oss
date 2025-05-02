@@ -1,6 +1,6 @@
 ## Hi ,i'm Shamim Fazli 👋
 
-                                                                               FULL STACK WEB DEVELOPER 
+FULL STACK WEB DEVELOPER 
                                                                                
 I am a full-stack web developer with a Computer Science degree, skilled in front-end and back-end
 technologies like HTML, CSS, JavaScript, React, and Node.js. Passionate about building responsive

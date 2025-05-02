@@ -1,7 +1,12 @@
 ## Hi ,i'm Shamim Fazli 👋
+
+                                                                               FULL STACK WEB DEVELOPER 
+                                                                               
 I am a full-stack web developer with a Computer Science degree, skilled in front-end and back-end
 technologies like HTML, CSS, JavaScript, React, and Node.js. Passionate about building responsive
 applications, I enjoy problem-solving and system design while continuously learning and improving.
+
+
 - 🔭 I’m currently working on Creating full stack Website .
 - 🌱 I’m Recently, created a hotel booking website where guests can browse available rooms and make reservations. The platform also includes features for managing room details, availability, and booking history.
 
